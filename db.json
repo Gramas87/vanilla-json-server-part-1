@@ -1,56 +1,60 @@
 {
-  "users": [
+  "booking": [
     {
-      "username": "John.x.Doe",
-      "age": 32,
-      "favourite_music_genre": "Jazz",
-      "preferred_programming_language": "Javascript",
-      "best_frontend_framework": "Vue",
-      "id": 1
+      "name": "Johnaaaaaaaazzzzzzzzzzzzzzzzzzzzz",
+      "phone": "5555125982",
+      "topic": "Music Theory",
+      "datetime": "2022-04-16T07:50",
+      "guitar": false,
+      "id": 7
     },
     {
-      "id": 2,
-      "username": "SniperxXx",
-      "age": 23,
-      "favourite_music_genre": "Rap",
-      "preferred_programming_language": "Python",
-      "best_frontend_framework": "React"
-    }
-  ],
-  "polls": [
-    {
-      "question": "Favourite Music Genre?",
-      "options": [
-        "Rock",
-        "Pop",
-        "Country",
-        "Rap",
-        "Jazz",
-        "Hip Hop",
-        "RNB",
-        "None",
-        "Depends"
-      ]
+      "name": "Stefan",
+      "phone": "555231245",
+      "topic": "Phrasing",
+      "datetime": "2022-04-16T10:50",
+      "guitar": true,
+      "id": 8
     },
     {
-      "question": "Preferred Programming Language?",
-      "options": [
-        "Java",
-        "C",
-        "C++",
-        "C#",
-        "Javascript",
-        "Python",
-        "Kotlin"
-      ]
+      "name": "Mark",
+      "phone": "5558981234",
+      "topic": "Timing",
+      "datetime": "2022-04-14T11:51",
+      "guitar": true,
+      "id": 9
     },
     {
-      "question": "Better Frontend JS Framework?",
-      "options": [
-        "React",
-        "Vue",
-        "Angular"
-      ]
+      "name": "Anna",
+      "phone": "5553285033",
+      "topic": "Speed",
+      "datetime": "2022-04-30T20:57",
+      "guitar": false,
+      "id": 10
+    },
+    {
+      "name": "Anh",
+      "phone": "555234678",
+      "topic": "Technique",
+      "datetime": "2022-04-22T07:54",
+      "guitar": true,
+      "id": 11
+    },
+    {
+      "name": "test",
+      "phone": "555",
+      "topic": "Music Theory",
+      "datetime": "2022-04-22T07:54",
+      "guitar": true,
+      "id": 12
+    },
+    {
+      "name": "Flavio",
+      "phone": "55533466",
+      "topic": "Timing",
+      "datetime": "2022-04-30T15:59",
+      "guitar": true,
+      "id": 13
     }
   ]
 }
